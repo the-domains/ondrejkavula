@@ -1,4 +1,4 @@
-name: OndrejKavula
+name: Ondrej Kavula
 favicon: null
 layout_spectrum: 0.4449330377392471
 typography_spectrum: 0.21312
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.663983755512163
   lightness: 0.45017873658798635
   saturation: 0.6539207077585161
-  rhythmicContrast: 0.21860318444669247
+  rhythmicContrast: 0.5
 purpose: []
