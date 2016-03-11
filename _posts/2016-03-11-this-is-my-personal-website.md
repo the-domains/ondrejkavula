@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: This is my personal website.
-datePublished: '2016-03-11T23:43:23.191Z'
-dateModified: '2016-03-11T23:43:17.729Z'
+datePublished: '2016-03-11T23:53:36.693Z'
+dateModified: '2016-03-11T23:53:09.962Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-this-is-my-personal-website.md
@@ -22,6 +22,10 @@ url: this-is-my-personal-website/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a63ca55-d7ce-44ae-aee1-19ebd4f833f9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c306b1a-b247-4c3b-9a8a-d385368cc0b6.jpg)
 
-This is my personal website.
+Agile Coaching
+
+Management Consultant
+
+Project / Programme Manager
