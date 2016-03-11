@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OndrejKavula]]></title>
-        <description><![CDATA[OndrejKavula]]></description>
+        <title><![CDATA[OndrejKavula.com]]></title>
+        <description><![CDATA[OndrejKavula.com]]></description>
         <link>https://thegrid.ai/ondrejkavula/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 23:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 23:54:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ondrejkavula/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a63ca55-d7ce-44ae-aee1-19ebd4f833f9.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c306b1a-b247-4c3b-9a8a-d385368cc0b6.jpg">]]></description>
             <link>https://thegrid.ai/ondrejkavula/this-is-my-personal-website/index.html</link>
             <guid isPermaLink="false">0cc963ab-59a3-4b88-83f4-88de9dff066a</guid>
-            <pubDate>Fri, 11 Mar 2016 23:43:23 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 23:53:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
