@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[OndrejKavula]]></title>
         <description><![CDATA[OndrejKavula]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ondrejkavula/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 23:38:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 23:44:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ondrejkavula/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my personal website.</p>]]></description>
-            <link>undefinedthis-is-my-personal-website/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a63ca55-d7ce-44ae-aee1-19ebd4f833f9.jpg">]]></description>
+            <link>https://thegrid.ai/ondrejkavula/this-is-my-personal-website/index.html</link>
             <guid isPermaLink="false">0cc963ab-59a3-4b88-83f4-88de9dff066a</guid>
-            <pubDate>Fri, 11 Mar 2016 23:38:28 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 23:43:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
