@@ -1,6 +1,6 @@
 name: Ondrej Kavula
 favicon: null
-layout_spectrum: 0.4449330377392471
+layout_spectrum: 0.71585
 typography_spectrum: 0.21312
 title: OndrejKavula.com
 cta:
@@ -22,7 +22,7 @@ color:
     - '#1b1b1d'
     - '#e5a984'
     - '#b6704e'
-  brandStrength: 0.663983755512163
+  brandStrength: 0.375
   lightness: 0.45017873658798635
   saturation: 0.6539207077585161
   rhythmicContrast: 0.5
